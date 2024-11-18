@@ -1,13 +1,12 @@
 /*-- About 
 Name : Sydney Chongo c
 From : Zambia
-Portfolio url : www.sydneyjr.tech
 Freelancer
 */
 
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #040404;
+  background-color: #F0F0F0;
   color: #fff;
   position: relative;
   background: transparent;
@@ -16,7 +15,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/about_me_pic2.jpg") top right no-repeat;
+  background: #F0F0F0 url("../img/about_me_pic2.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
