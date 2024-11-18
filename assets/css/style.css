@@ -6,7 +6,7 @@ Freelancer
 
 body {
   font-family: "Open Sans", sans-serif;
-  background-color: #F0F0F0;
+  background-color: #040404;
   color: #fff;
   position: relative;
   background: transparent;
@@ -15,7 +15,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #F0F0F0 url("../img/about_me_pic2.jpg") top right no-repeat;
+  background: #040404 url("../img/about_me_pic2.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
